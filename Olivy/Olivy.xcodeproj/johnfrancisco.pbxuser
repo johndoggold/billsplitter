@@ -1,0 +1,131 @@
+// !$*UTF8*$!
+{
+	E2437BE7167458E90066A72A /* Olivy */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Olivy;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E2437BF6167458EA0066A72A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E2437BF7167458EA0066A72A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E2437BF816745A380066A72A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E24880121673353F006E2FE5 /* AppDelegate.m */;
+		name = "AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
+	};
+	E2437BF916745A380066A72A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E248802016733554006E2FE5 /* MainViewController.m */;
+	};
+	E2437BFA16745A380066A72A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E248802016733554006E2FE5 /* MainViewController.m */;
+		name = "MainViewController.m: 66";
+		rLen = 81;
+		rLoc = 1292;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 1008;
+	};
+	E2487FF51673353F006E2FE5 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E2437BE7167458E90066A72A /* Olivy */;
+		activeTarget = E2487FFD1673353F006E2FE5 /* Olivy */;
+		codeSenseManager = E2437BF7167458EA0066A72A /* Code sense */;
+		executables = (
+			E2437BE7167458E90066A72A /* Olivy */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 376723689;
+			PBXWorkspaceStateSaveDate = 376723689;
+		};
+		perUserProjectItems = {
+			E2437BF816745A380066A72A /* PBXTextBookmark */ = E2437BF816745A380066A72A /* PBXTextBookmark */;
+			E2437BF916745A380066A72A /* PBXBookmark */ = E2437BF916745A380066A72A /* PBXBookmark */;
+			E2437BFA16745A380066A72A /* PBXTextBookmark */ = E2437BFA16745A380066A72A /* PBXTextBookmark */;
+		};
+		sourceControlManager = E2437BF6167458EA0066A72A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E2487FFD1673353F006E2FE5 /* Olivy */ = {
+		activeExec = 0;
+		executables = (
+			E2437BE7167458E90066A72A /* Olivy */,
+		);
+	};
+	E24880121673353F006E2FE5 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 871}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 506}";
+		};
+	};
+	E248802016733554006E2FE5 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 923}}";
+			sepNavSelRange = "{1292, 81}";
+			sepNavVisRange = "{1008, 374}";
+		};
+	};
+}
